@@ -1,4 +1,5 @@
-# Null-Cleaner
+# Null-Clea![Screenshot_1](https://user-images.githubusercontent.com/88463490/177012935-c38b7662-d08b-47b2-84b3-0ab5c6b5ad6f.png)
+ner
 
 ## USAGE
 
@@ -6,7 +7,6 @@
 Run as administrator if you want it to clean most of the temp files and such
 
 You can run it without admin but it won't have permission to delete some temp files
-
 ```
 ## CONNECT WITH US:
 
