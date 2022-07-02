@@ -1,5 +1,6 @@
-# Null-Clea![Screenshot_1](https://user-images.githubusercontent.com/88463490/177012935-c38b7662-d08b-47b2-84b3-0ab5c6b5ad6f.png)
-ner
+<h1 align="center">Pc-Cleaner</h1>
+![Screenshot_1](https://user-images.githubusercontent.com/88463490/177012935-c38b7662-d08b-47b2-84b3-0ab5c6b5ad6f.png)
+
 
 ## USAGE
 
